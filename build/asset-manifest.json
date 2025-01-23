@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/0SHERPA0/formbuilder/static/css/main.c7abbe3f.css",
+    "main.js": "/0SHERPA0/formbuilder/static/js/main.b2af8c87.js",
+    "static/js/488.d31746a4.chunk.js": "/0SHERPA0/formbuilder/static/js/488.d31746a4.chunk.js",
+    "index.html": "/0SHERPA0/formbuilder/index.html",
+    "main.c7abbe3f.css.map": "/0SHERPA0/formbuilder/static/css/main.c7abbe3f.css.map",
+    "main.b2af8c87.js.map": "/0SHERPA0/formbuilder/static/js/main.b2af8c87.js.map",
+    "488.d31746a4.chunk.js.map": "/0SHERPA0/formbuilder/static/js/488.d31746a4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c7abbe3f.css",
+    "static/js/main.b2af8c87.js"
+  ]
+}
