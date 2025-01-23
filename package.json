@@ -1,12 +1,12 @@
 {
-  "homepage": "https://github.com/0SHERPA0/formbuilder",
+  "homepage": "https://0sherpa0/github.io/formbuilder",
   "name": "formbuilder",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
     "cra-template": "1.2.0",
-    "react": "^19.0.0",
-    "react-dom": "^19.0.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.1.0",
     "react-scripts": "5.0.1",
     "web-vitals": "^4.2.4",
     "zod": "^3.24.1"
